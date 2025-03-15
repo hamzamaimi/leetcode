@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 function twoSum(nums, target) {
     for (let i = 0; i < nums.length; i++) {
         let currentSelection = nums[i];

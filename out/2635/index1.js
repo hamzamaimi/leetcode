@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 function map(arr, fn) {
     let finalArray = arr;
     finalArray.forEach((e, i) => { finalArray[i] = fn(e, i); });

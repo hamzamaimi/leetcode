@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 //   Definition for singly-linked list.
 class ListNode {
     constructor(val, next) {

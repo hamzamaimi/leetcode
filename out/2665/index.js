@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const start = performance.now();
 function createCounter(init) {
     let currentValue = init;

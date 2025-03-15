@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 function greaterThan10(n) { return n > 10; }
 ;
 function firstIndex(n, i) { return i === 0; }
