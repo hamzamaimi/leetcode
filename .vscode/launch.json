@@ -11,12 +11,13 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/typeScript/2634/index.ts",
+            "program": "${workspaceFolder}/typeScript/2626/index.ts",
             "preLaunchTask": "tsc: build - tsconfig.json",
             "outFiles": [
                 "${workspaceFolder}/***/**/*.js"
             ],
             "sourceMaps": true,
+            
         }
     ]
 }
