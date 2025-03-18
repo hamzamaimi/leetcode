@@ -4,7 +4,5 @@ function argumentsLength(...args) {
     return args.length;
 }
 ;
-console.time('as');
-argumentsLength(1, 2, 3);
-console.timeEnd('as');
+console.log(argumentsLength(1, 2, 3));
 //# sourceMappingURL=index.js.map
